@@ -1,0 +1,6 @@
+PassengerId,Survived,Pclass,Name,Sex,Age
+1,0,3,Rajesh Sharma,male,28
+2,1,1,Anjali Verma,female,32
+3,1,3,Priya Singh,female,24
+4,1,1,Amitabh Bachhan,male,60
+5,0,3,Vikram Singh,male,30
